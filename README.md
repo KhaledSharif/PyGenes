@@ -1,4 +1,6 @@
 # pygenetic
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhaledSharif%2Fpygenetic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhaledSharif%2Fpygenetic?ref=badge_shield)
+
 ##### A fast and simple implementation of the genetic algorithm in Python.
 
 
@@ -92,3 +94,7 @@ for I in range(1000):
 
     print(I + 1, objective(population.get_population()[0]), "\t", t[0], "\t", 1-t[1])
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhaledSharif%2Fpygenetic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhaledSharif%2Fpygenetic?ref=badge_large)
